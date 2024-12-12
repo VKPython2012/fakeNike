@@ -1,0 +1,61 @@
+<html>
+    <head>
+        <title>Fakenike</title>
+    </head>
+    <body style="font-family:Helvetica">
+        <header>
+            <div class="header-table">
+                <table width="900px" class="header">
+                    <tr>
+                        <td><a href="#aboutus">About us</a></td>
+                        <td><a href="#bestseller">Best seller</a></td>
+                        <td><a href="#footer">Details</a></td>
+                    </tr>
+                </table>
+            </div>
+        </header>
+        <main>
+            <div>
+                <h1 class="firstsale">- First Sale -</h1>
+            </div>
+            <h2 style="font-size:56px;color:blue;text-align:center">Get 30% Off</h2>
+            <div>
+                <b><a class="button1" href="">Click here</a></b>
+            </div>
+            <br><br><br><br><br>
+            <div class="aboutus" id="aboutus">
+                <h2 class="aboutus2h2">About us</h2>
+                <p class="aboutus2p">Welcome to fakeNike! We offer high-quality basketball and football shoes designed for athletes of all levels. Our mission is to provide footwear that combines performance, comfort, and style, helping you excel on the court or field. Join our community of sports lovers and elevate your game with every step!</p>
+            </div>
+            <div id="bestseller" class="bestseller">
+                
+                <table>
+                    <tr>
+                        <th><h2 class="bsh2">Best<br>seller</h2></th>
+                        <th>
+                            <table>
+                                <tr>
+                                    <th style="color:white" class="bsn"><p>Air Jordan XXXVIII Low PF</p></th>
+                                    <th style="color:white" class="bsn"><p>Luka 2 PF</p></th>
+                                </tr>
+                                <tr>
+                                    <td><img src="https://static.wixstatic.com/media/9025df_226d6d2e4b0548369cac474120b4aee4~mv2.webp/v1/fill/w_320,h_197,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/9025df_226d6d2e4b0548369cac474120b4aee4~mv2.webp" style="width: 240px; height: 147px; object-fit: cover;"></td>
+                                    <td><img src="https://static.wixstatic.com/media/9025df_238784578833415c9596e3379169c0b4~mv2.jpg/v1/fill/w_320,h_197,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/9025df_238784578833415c9596e3379169c0b4~mv2.jpg" style="width: 240px; height: 147px; object-fit: cover;"></td>
+                                </tr>
+                            </table>
+                        </th>
+                    </tr>
+                </table>
+            </div>
+        </main>
+    </body>
+    <footer id="footer">
+        <table>
+            <tr>
+                <th>Phone: 0987654321</th>
+                <th>Email: fakenikereal@gmail.com</th>
+                <th>Address: Solar system, Earth, Asia, West-southern Asia, Vietnam, IDK</th>
+            </tr>
+        </table>
+    </footer>
+</html>
